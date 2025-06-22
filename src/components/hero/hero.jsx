@@ -16,12 +16,12 @@ return (
       <button className="learn">learn more</button>
       </div>
       <div>
-      <img src="https://res.cloudinary.com/dpptqjux8/image/upload/v1750420302/WhatsApp_Image_2025-06-19_at_21.43.24_5db48870_ohzgwb.jpg" alt="" />
+        <img src="/images/white.jpg" alt="" />
       </div>
     </div>
 
-  );
-};
+  )
+}
 
 export default Hero;
 

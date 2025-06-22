@@ -61,7 +61,7 @@ body {
 }
 
    .container{  
-    background-color: aquamarine;
+    
           display: flex;
          align-items: center;
          gap: 10px;

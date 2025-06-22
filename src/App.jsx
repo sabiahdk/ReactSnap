@@ -6,6 +6,7 @@ import Header from "./components/header/header"
 import Hero from "./components/hero/hero"
 
 
+
 const App = () => {
   return(
   <>
@@ -17,6 +18,7 @@ const App = () => {
   </div>
   
   </>
+
   )
 }
  
